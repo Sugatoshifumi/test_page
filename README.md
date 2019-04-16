@@ -40,3 +40,6 @@ ___
 
 
 これは**強調表現**です
+
+
+[Google](https://www.google.co.jp/)
